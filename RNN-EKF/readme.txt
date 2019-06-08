@@ -1,0 +1,1 @@
+Open the "rnn_main.m" file in Matlab to use the network.
